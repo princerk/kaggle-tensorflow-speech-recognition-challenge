@@ -1,4 +1,5 @@
 # kaggle-tensorflow-speech-recognition-challenge
+https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
 # for virtualenv for python 3
 sudo apt-get install virtualenv <br/>
