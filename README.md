@@ -1,8 +1,7 @@
-# My project's README
-
+# kaggle-tensorflow-speech-recognition-challenge
 
 # for virtualenv for python 3
-sudo apt-get install virtualenv
+sudo apt-get install virtualenv <br/>
 virtualenv -p python3 venv
 
 # instll pythen dev
@@ -13,12 +12,11 @@ sudo apt-get install python3-dev
 
 jupyter-notebook --generate-config
 
-a file will be create ~/.jupyter/jupyter_notebook_config.py
-add following at the end of the file
+A file will be create ~/.jupyter/jupyter_notebook_config.py
+add followings at the end of the file
 
-c = get_config()
-c.NotebookApp.ip = '*'
-c.NotebookApp.open_browser = False
+c = get_config() <br/>
+c.NotebookApp.ip = '*' <br/>
+c.NotebookApp.open_browser = False <br/>
 c.NotebookApp.port = 5000
 
-# kaggle-tensorflow-speech-recognition-challenge
